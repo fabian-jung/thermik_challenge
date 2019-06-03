@@ -118,12 +118,13 @@ void optimize(thermal_t<iterator_t>& thermal) {
 
 template<class iterator_t>
 bool is_local(thermal_t<iterator_t> thermal, const airport_t& ap) {
-    for(auto it = thermal.begin; it != thermal.end; ++it) {
-        if(units::distance(it->position, ap.position) > units::length::kilometer_t(10)) {
-            return false;
-        }
-    }
-    return true;
+	return std::any_of(
+		thermal.begin,
+		thermal.end,
+		[&](const auto& sample){
+			return units::distance(sample.position, ap.position) > units::length::kilometer_t(10);
+		}
+	);
 }
 
 template <class iterator_t>
