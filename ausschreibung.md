@@ -27,7 +27,7 @@
 
 §9: Das Loggerintervall soll ein Punkt pro Sekunde sein. Flüge mit einem Loggerintervall das größer ist als ein Punkt alle 4 Sekunden sind von der Wertung ausgeschlossen.
 
-§10: Flüge sollen bis zu 24h nach der Landung bei mir eingereicht werden (fabian.jung@mailbox.tu-dresden.de, Betreff:"Flugmeldung Thermik-Challenge"). Eine Wertung erfolgt nur, wenn der Flug bis zu 48h nach der Landung eingereicht wurde. Eine Zwischenwertung kann unter folgender Seite eingesehen werden: https://docs.google.com/spreadsheets/d/15XsicQqW2RN_lsifiIV0JXv6rgbjBqRYJBzSBxYwY84/edit?usp=sharing
+§10: Flüge sollen bis zu 24h nach der Landung bei mir eingereicht werden ("XXX@X.XX"). Eine Wertung erfolgt nur, wenn der Flug bis zu 48h nach der Landung eingereicht wurde. Eine Zwischenwertung kann unter folgender Seite eingesehen werden: XXX.XX
 
 §11: Die finale Auswertung erfolgt zur Whynachtsfeier der Akaflieg Dresden. Flüge können bis zum Vortag eingereicht werden.
 
